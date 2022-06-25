@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name_highlights{
+    color: orange;
+}
+.banner-left{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(./image/top-banner.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    
+}
+.top-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgb(255, 111, 0), rgb(0, 101, 243));
+    padding: 10px 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.dream-area{
+    height: 505px;
+    margin: auto;
+    background-image: url(./image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
