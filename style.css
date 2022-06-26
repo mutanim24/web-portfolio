@@ -37,4 +37,18 @@ img{
     background-image: url(./image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    
+}
+.ex-area{
+    background-image: url(./image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.ex-shadow{
+    box-shadow: 10px 10px 40px gray;
+}
+#bbb{
+    border-left: 7px solid;
+    border-image: linear-gradient(180 deg, lightsalmon, tomato);
+    background-image-slice: 1;
 }
